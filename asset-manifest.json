@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pooja-portfolio/static/css/main.864ceb30.css",
-    "main.js": "/pooja-portfolio/static/js/main.fc1c933b.js",
+    "main.js": "/pooja-portfolio/static/js/main.e8caafef.js",
     "static/js/453.438d9e50.chunk.js": "/pooja-portfolio/static/js/453.438d9e50.chunk.js",
     "index.html": "/pooja-portfolio/index.html",
     "main.864ceb30.css.map": "/pooja-portfolio/static/css/main.864ceb30.css.map",
-    "main.fc1c933b.js.map": "/pooja-portfolio/static/js/main.fc1c933b.js.map",
+    "main.e8caafef.js.map": "/pooja-portfolio/static/js/main.e8caafef.js.map",
     "453.438d9e50.chunk.js.map": "/pooja-portfolio/static/js/453.438d9e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.864ceb30.css",
-    "static/js/main.fc1c933b.js"
+    "static/js/main.e8caafef.js"
   ]
 }
