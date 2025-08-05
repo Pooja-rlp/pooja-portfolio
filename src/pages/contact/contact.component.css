@@ -1,0 +1,51 @@
+.contact-container {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: #f5f5f5;
+  border-radius: 12px;
+  margin: 7rem 2rem;
+}
+
+.contact-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #24292e;
+}
+
+.contact-info {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #333;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.contact-item {
+  margin-bottom: 1rem;
+}
+.resume-links {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.resume-link {
+  padding: 0.6rem 1.2rem;
+  background-color: #24292e;
+  color: white;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  white-space: nowrap;
+}
+
+@media (max-width: 300px) {
+  .contact-value {
+    word-break: break-word;
+  }
+}
